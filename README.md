@@ -10,7 +10,7 @@ Example usage of
 - [PeerData](https://github.com/vardius/peer-data) library.
 - [ReactPeerData](https://github.com/vardius/react-peer-data) library.
 
-[DEMO](https://react-webrtc-chat.herokuapp.com/)
+[DEMO](https://webchat.compositekey.tech/)
 
 ![Login](../master/.github/login.png)
 <!-- ![Chat](../master/.github/chat.png) -->
